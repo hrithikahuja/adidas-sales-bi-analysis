@@ -29,3 +29,6 @@ This project analyzes Adidas sales performance to identify trends across time, p
 - Tableau
 - SQL
 - PowerPoint
+
+## Notes
+Dataset files are included under data/ (Kaggle source)
