@@ -10,8 +10,8 @@ This project analyzes Adidas sales performance to identify trends across time, p
 - What patterns indicate growth, maturity, or decline across categories?
 
 ## Deliverables
-- Presentation (PDF): [ddocs/Adidas Sales Analysis PPT Deck.pdf](docs/Adidas_Sales_Analysis_PPT_Deck.pdf)
-- Presentation (PPTX): [docs/Adidas Sales Analysis PPT Deck.pptx](ddocs/Adidas_Sales_Analysis_PPT_Deck.pptx)
+- Presentation (PDF): [docs/Adidas Sales Analysis PPT Deck.pdf](docs/Adidas_Sales_Analysis_PPT_Deck.pdf)
+- Presentation (PPTX): [docs/Adidas Sales Analysis PPT Deck.pptx](docs/Adidas_Sales_Analysis_PPT_Deck.pptx)
 
 ## Key Insights
 - Centralized view of revenue, profit, margin, and units sold across product and region segments.
